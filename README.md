@@ -1,5 +1,4 @@
 # NAIVEBAYES
-THESIS Algorithm
 The code begins by loading water quality data from a CSV file, which includes information about pH, turbidity, and water cleanliness labels.
 
 It then prepares the data by extracting the features (pH and turbidity) and the target variable (cleanliness labels) and performs data augmentation by duplicating some of the data for better training.
